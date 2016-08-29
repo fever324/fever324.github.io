@@ -8,6 +8,8 @@ export default class Todo extends React.Component {
       <div>
         <p>hihihi</p>
         <Link to="/">Home Page</Link>
+
+        <p>{this.props.params.todoId}</p>
       </div>
     )
   }

@@ -2,7 +2,7 @@ body {
   font-family: "Consolas", "Microsoft YaHei";
   background-color: rgb(240, 240, 240);
 }
-div.container {
+div.app {
   margin-left: 50px;
   margin-top: 60px;
 }

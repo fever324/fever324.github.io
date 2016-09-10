@@ -2,13 +2,10 @@ class Name extends React.Component {
   render() {
     return (
       <div>
-        <h1>Building... </h1>
-        <h2>建设中...</h2>
-        <br/>
-        <br/>
-        <br/>
-        <h3>Hongfei Li, MPS @ Cornell Info Science</h3>
-        <h3>hl963@cornell.edu</h3>
+        <p className="building">Building... </p>
+        <p className="jianshezhong">建设中...</p>
+        <p className="content">Hongfei Li, MPS @ Cornell Info Science</p>
+        <p className="content">hl963@cornell.edu</p>
       </div>
     )
   }

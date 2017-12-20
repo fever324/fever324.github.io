@@ -4,8 +4,8 @@ class Name extends React.Component {
       <div>
         <p className="building">Building... </p>
         <p className="jianshezhong">建设中...</p>
-        <p className="content">Hongfei Li, MPS @ Cornell Info Science</p>
-        <p className="content">hl963@cornell.edu</p>
+        <p className="content">Hongfei Li, Software Engineer @ Facebook</p>
+        <p className="content">fever324@gmail.com</p>
       </div>
     )
   }
